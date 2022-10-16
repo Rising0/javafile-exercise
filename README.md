@@ -10,4 +10,4 @@ aquele item (preço unitário multiplicado pela quantidade),
 conforme exemplo.
 
 # Example
-<img src="/home/pc/IdeaProjects/Course/img/example.png" />
+<img src="img/example.png" />
